@@ -3,8 +3,7 @@
 
 <div id="badges">
     <a href="https://drive.google.com/drive/folders/1_s-kucN6bhZ-4b7hzo4mQVN29v9d3eUU?usp=drive_link">
-      <img src="https://img.shields.io/badge/Google%20Drive-EB4132?style=for-the-badge&logo=Google%20Drive&logoColor=ffffff
-      " alt="Google Drive Badge"/>
+      <img src="https://img.shields.io/badge/Google%20Drive-EB4132?style=for-the-badge&logo=Google%20Drive&logoColor=ffffff" alt="Google Drive Badge"/>
     </a>
   </div>
 
